@@ -32,7 +32,7 @@ pip install pandas numpy scikit-learn matplotlib
 ## Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
+   git clone https://github.com/IdONTKnowCHEK/HW2-Logistic-regression---titanic.git
    cd titanic-survival-prediction
    ```
 
